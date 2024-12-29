@@ -4,6 +4,6 @@
 ## Goal
 The main purpose is to re-give items that don't change the attributes even if use **/ei refresh**.
 
-Feel free to make a pull request, the more contributions the better the plugin.
+Feel free to contribute, the more contributions the better the plugin.
 
 Credit for Etheria.
