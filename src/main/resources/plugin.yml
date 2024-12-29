@@ -1,0 +1,5 @@
+name: EiFixer
+version: '${version}'
+main: me.kristywen.eifixer.EiFixer
+api-version: '1.16'
+load: STARTUP
